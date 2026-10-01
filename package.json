@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Node.js application demonstrating CI/CD with GitHub Actions and Docker",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "docker",
+    "github-actions",
+    "cicd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
